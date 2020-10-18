@@ -1,2 +1,2 @@
 # Hello-world
-This is a repository I created while learning how to use GitHub
+Hello y'all this was done while leaarning to use GitHub and creating new branches and also making commits
